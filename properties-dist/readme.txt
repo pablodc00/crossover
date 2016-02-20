@@ -1,0 +1,2 @@
+Its hard to predict all the properties types we may encounter, so those kind of projects are much easier to evolve step-by-step,
+running and anaylizing properties which have been left as String.class type
